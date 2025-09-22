@@ -32,7 +32,7 @@ This is a static HTML website that's ready to deploy immediately. No build proce
 
 4. **Custom Domain Setup**
    - In Netlify dashboard, go to Site Settings > Domain Management
-   - Add your custom domain
+   - Add custom domain: 2men.ai
    - Follow DNS configuration instructions
    - SSL certificate will be automatically provisioned
 
@@ -191,7 +191,7 @@ To add Google Analytics:
 4. Test with simple email client if needed
 
 ### Website Not Loading
-1. Check domain DNS settings
+1. Check domain DNS settings for 2men.ai
 2. Verify hosting service status
 3. Clear browser cache
 4. Check for JavaScript errors in console
